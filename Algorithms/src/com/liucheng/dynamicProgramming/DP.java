@@ -1,7 +1,7 @@
 package com.liucheng.dynamicProgramming;
 
 /**
- * DynaicProgramming��̬�滮
+ * DynaicProgramming动态规划
  * @author Administrator
  *
  */
